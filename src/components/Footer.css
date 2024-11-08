@@ -1,0 +1,18 @@
+/* src/components/Footer.css */
+
+.footer {
+    position: fixed; /* Cố định footer ở dưới cùng */
+    left: 0; /* Căn trái */
+    bottom: 0; /* Căn dưới */
+    width: 100%; /* Chiếm toàn bộ chiều rộng */
+    background-color: #f9f9f9; /* Màu nền */
+    text-align: center; /* Căn giữa văn bản */
+    padding: 10px 0; /* Khoảng cách trên và dưới */
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+    z-index: 1000; /* Đảm bảo footer nằm trên cùng */
+}
+
+.footer p {
+    margin: 0; /* Bỏ margin để căn giữa đẹp hơn */
+    font-size: 14px; /* Kích thước chữ */
+}

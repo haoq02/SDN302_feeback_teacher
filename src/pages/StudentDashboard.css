@@ -1,0 +1,189 @@
+/* Container chính */
+.dashboard-container {
+    width: 100%;
+    max-width: 1200px; /* Tăng kích thước tối đa của container */
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+/* Tiêu đề trang */
+.dashboard-container h1 {
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 20px;
+    font-size: 2em;
+}
+
+/* Form Gửi Feedback */
+.feedback-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.feedback-form h2 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+.feedback-form label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #555;
+}
+
+.feedback-form input[type="number"],
+.feedback-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.feedback-form textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+.submit-btn:hover {
+    background-color: #45a049;
+}
+
+/* Tiêu đề bảng Feedback */
+.feedback-title {
+    margin-top: 30px;
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+}
+
+/* Định dạng bảng Feedback */
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+    margin-top: 20px;
+}
+
+.feedback-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 0.9em; /* Giảm kích thước font */
+}
+
+.feedback-table thead {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+.feedback-table th, .feedback-table td {
+    padding: 8px 10px; /* Giảm padding để tiết kiệm không gian */
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    white-space: nowrap; /* Ngăn ngắt dòng trong ô */
+}
+
+/* Cố định độ rộng của các cột cụ thể để bảng gọn hơn */
+.feedback-table th:nth-child(1),
+.feedback-table td:nth-child(1) {
+    width: 150px; /* Tên giáo viên */
+}
+
+.feedback-table th:nth-child(2),
+.feedback-table td:nth-child(2) {
+    width: 150px; /* Sinh viên */
+}
+
+.feedback-table th:nth-child(3),
+.feedback-table td:nth-child(3) {
+    width: 80px; /* Điểm tổng */
+}
+
+.feedback-table th:nth-child(4),
+.feedback-table th:nth-child(5),
+.feedback-table th:nth-child(6),
+.feedback-table th:nth-child(7),
+.feedback-table td:nth-child(4),
+.feedback-table td:nth-child(5),
+.feedback-table td:nth-child(6),
+.feedback-table td:nth-child(7) {
+    width: 100px; /* Các tiêu chí khác */
+}
+
+.feedback-table th:nth-child(8),
+.feedback-table td:nth-child(8) {
+    width: 200px; /* Nhận xét */
+}
+
+.feedback-table th:nth-child(9),
+.feedback-table td:nth-child(9) {
+    width: 120px; /* Phản hồi */
+}
+
+.feedback-table th:nth-child(10),
+.feedback-table td:nth-child(10) {
+    width: 100px; /* Hành động */
+}
+
+/* Màu nền và hover */
+.feedback-table tbody tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+.feedback-table tbody tr:hover {
+    background-color: #e0f7fa;
+    transition: background-color 0.3s ease;
+}
+
+/* Style cho các nút trong bảng */
+.feedback-table .action-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8em; /* Giảm kích thước font của nút */
+}
+
+.feedback-table .action-btn:hover {
+    background-color: #45a049;
+}
+
+/* Điều chỉnh cho các thiết bị di động */
+@media (max-width: 600px) {
+    .dashboard-container {
+        width: 95%;
+    }
+
+    .feedback-form label,
+    .feedback-table th,
+    .feedback-table td {
+        font-size: 0.8em;
+    }
+
+    .feedback-table .action-btn {
+        padding: 5px 10px;
+        font-size: 0.7em;
+    }
+}

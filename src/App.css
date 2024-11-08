@@ -1,0 +1,21 @@
+/* App.css */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1; /* Đảm bảo phần main chiếm đủ không gian */
+  padding: 20px;
+  padding-bottom: 60px; /* Tạo khoảng trống dưới cùng để footer không che nội dung */
+  overflow-y: auto; /* Cho phép cuộn nếu nội dung quá dài */
+}
+
+footer {
+  padding: 15px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
