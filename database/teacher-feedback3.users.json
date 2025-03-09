@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "name": "Nguyen Van A",
+  "email": "teacher1@example.com",
+  "password": "123456",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb22"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "name": "Nguyen Van B",
+  "email": "teacher2@example.com",
+  "password": "123456",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb23"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb21"
+  },
+  "name": "Tran Thi D",
+  "email": "student2@example.com",
+  "password": "123456",
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb22"
+    },
+    {
+      "$oid": "652d1f43992c916b3e5bfb23"
+    },
+    {
+      "$oid": "652d1f43992c916b3e5bfb26"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb25"
+  },
+  "name": "Pham Van E",
+  "email": "teacher3@example.com",
+  "password": "123456",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb24"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb26"
+  },
+  "name": "Nguyen Thi F",
+  "email": "student3@example.com",
+  "password": "123456",
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb24"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb27"
+  },
+  "name": "Tran Van G",
+  "email": "teacher4@example.com",
+  "password": "123456",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb25"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb28"
+  },
+  "name": "Doan Thi H",
+  "email": "teacher5@example.com",
+  "password": "123456",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb26"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb29"
+  },
+  "name": "Pham Thi I",
+  "email": "student4@example.com",
+  "password": "123456",
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb25"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb30"
+  },
+  "name": "Bui Van J",
+  "email": "student5@example.com",
+  "password": "123456",
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb26"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "name": "Le Thi C",
+  "email": "student1@example.com",
+  "password": "123456",
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "652d1f43992c916b3e5bfb22"
+    },
+    {
+      "$oid": "652d1f43992c916b3e5bfb23"
+    }
+  ]
+}]

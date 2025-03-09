@@ -1,0 +1,447 @@
+[{
+  "_id": {
+    "$oid": "671cfdedaa18f70351682452"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 5,
+  "criteria": {
+    "clarity": 5,
+    "engagement": 5,
+    "knowledge": 5,
+    "approachability": 5
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-26T14:34:21.482Z"
+  },
+  "__v": 0,
+  "response": "ok em"
+},
+{
+  "_id": {
+    "$oid": "671d04b2dffa4b406a85f58f"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 4,
+  "criteria": {
+    "clarity": 4,
+    "engagement": 5,
+    "knowledge": 4,
+    "approachability": 3
+  },
+  "comment": "Giáo viên giảng dạy rất nhiệt tình",
+  "createdAt": {
+    "$date": "2024-10-26T15:03:14.018Z"
+  },
+  "__v": 0,
+  "response": "cảm ơn e nhiều\n"
+},
+{
+  "_id": {
+    "$oid": "671d074288558377bd310ee0"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "rating": 4,
+  "criteria": {
+    "clarity": 4,
+    "engagement": 5,
+    "knowledge": 4,
+    "approachability": 3
+  },
+  "comment": "Great teaching style 23",
+  "createdAt": {
+    "$date": "2024-10-26T15:14:10.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671d080309553cbd4f9826bb"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "rating": 4,
+  "criteria": {
+    "clarity": 3,
+    "engagement": 3,
+    "knowledge": 4,
+    "approachability": 3
+  },
+  "comment": "Great teaching style 223",
+  "createdAt": {
+    "$date": "2024-10-26T15:17:23.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671d12f9795c0c03149e5ce2"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 5,
+  "criteria": {
+    "clarity": 5,
+    "engagement": 5,
+    "knowledge": 5,
+    "approachability": 5
+  },
+  "comment": "1",
+  "createdAt": {
+    "$date": "2024-10-26T16:04:09.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671d1bee1e90377baa5b7441"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 4,
+  "criteria": {
+    "clarity": 5,
+    "engagement": 4,
+    "knowledge": 5,
+    "approachability": 4
+  },
+  "comment": "Rất hài lòng với giảng viên.",
+  "createdAt": {
+    "$date": "2024-10-26T16:42:22.918Z"
+  },
+  "__v": 0,
+  "response": "ok em\n"
+},
+{
+  "_id": {
+    "$oid": "671d21026d4bb00cffd9930e"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 4,
+  "criteria": {
+    "clarity": 5,
+    "engagement": 4,
+    "knowledge": 5,
+    "approachability": 4
+  },
+  "comment": "Rất hài lòng với giảng viên.",
+  "createdAt": {
+    "$date": "2024-10-26T17:04:02.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671d246805d94e3487d6918a"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-26T17:18:32.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671fb2485575362a48549034"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb24"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-28T15:48:24.771Z"
+  },
+  "__v": 0,
+  "response": "thank you\n"
+},
+{
+  "_id": {
+    "$oid": "671fb27b5575362a48549048"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb24"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "good",
+  "createdAt": {
+    "$date": "2024-10-28T15:49:15.549Z"
+  },
+  "__v": 0,
+  "response": "ok"
+},
+{
+  "_id": {
+    "$oid": "671fb28b5575362a48549068"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb25"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb27"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-28T15:49:31.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671fc71edc973054da83e383"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-28T17:17:18.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671fc728dc973054da83e397"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb25"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb27"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "okok",
+  "createdAt": {
+    "$date": "2024-10-28T17:17:28.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672085e4b9f7f674b1ef7e1d"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb20"
+  },
+  "rating": 3,
+  "criteria": {
+    "clarity": 5,
+    "engagement": 5,
+    "knowledge": 5,
+    "approachability": 5
+  },
+  "comment": "giáo viên dạy nhiệt tình",
+  "createdAt": {
+    "$date": "2024-10-29T06:51:16.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67208745ec4c1bc73efb5be7"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb21"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "thầy dạy tốt",
+  "createdAt": {
+    "$date": "2024-10-29T06:57:09.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672087a2ec4c1bc73efb5c10"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb26"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "ok",
+  "createdAt": {
+    "$date": "2024-10-29T06:58:42.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cd4bb0c68c70ecc91bcc3b"
+  },
+  "course": {
+    "$oid": "652d1f43992c916b3e5bfb24"
+  },
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "student": {
+    "$oid": "651d1f43992c916b3e5bfb21"
+  },
+  "rating": 1,
+  "criteria": {
+    "clarity": 1,
+    "engagement": 1,
+    "knowledge": 1,
+    "approachability": 1
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2025-03-09T08:05:04.661Z"
+  },
+  "__v": 0
+}]

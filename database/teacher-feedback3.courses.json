@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "652d1f43992c916b3e5bfb22"
+  },
+  "name": "Mathematics 101",
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "students": [
+    {
+      "$oid": "651d1f43992c916b3e5bfb20"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb21"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb26"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652d1f43992c916b3e5bfb23"
+  },
+  "name": "Physics 101",
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1f"
+  },
+  "students": [
+    {
+      "$oid": "651d1f43992c916b3e5bfb20"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb1f"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb26"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652d1f43992c916b3e5bfb24"
+  },
+  "name": "Chemistry 101",
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb1e"
+  },
+  "students": [
+    {
+      "$oid": "651d1f43992c916b3e5bfb20"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb21"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652d1f43992c916b3e5bfb25"
+  },
+  "name": "History 101",
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb27"
+  },
+  "students": [
+    {
+      "$oid": "651d1f43992c916b3e5bfb20"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb29"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652d1f43992c916b3e5bfb26"
+  },
+  "name": "Literature 101",
+  "teacher": {
+    "$oid": "651d1f43992c916b3e5bfb28"
+  },
+  "students": [
+    {
+      "$oid": "651d1f43992c916b3e5bfb21"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb30"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "671fccbd62091caf07f29b91"
+  },
+  "name": "Lab 201",
+  "teacher": {
+    "$oid": "653d2f43992c916b3e5bfc33"
+  },
+  "students": [
+    {
+      "$oid": "653d2f43992c916b3e5bfc34"
+    },
+    {
+      "$oid": "653d2f43992c916b3e5bfc35"
+    },
+    {
+      "$oid": "651d1f43992c916b3e5bfb20"
+    }
+  ],
+  "__v": 0
+}]
